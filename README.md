@@ -1,2 +1,1 @@
-# SDN-controller-performance-compare
 This repository includes programs based on ns-3 which are used to compare the performance of five sdn control planes (centralized, p2p with local view, p2p with global view, hierachical, and hybrid). To run these programs, you should first install the ns3 following <https://www.nsnam.org/wiki/Installation>. Then you can just run each of these programs same as running a ns3 script. 
